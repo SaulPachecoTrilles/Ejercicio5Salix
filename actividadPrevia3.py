@@ -1,7 +1,7 @@
 print( '56 Indica qué líneas del último programa (y en qué orden) se ejecutarán para cada uno de los siguientes casos: ')
 print( 'Programa para la resolución de la ecuación a x + b = 0 ')
 
-#Entrada de datos
+#Entrada de datosssss
 a = int( input('Introduzca el valor de a: ') )
 b = int( input('Introduzca el valor de b: ') )
 
